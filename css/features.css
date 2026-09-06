@@ -1,10 +1,15 @@
 .features {
+  padding: 120px 0;
 }
 .features-title {
 }
+
 .features-list {
+  display: flex;
+  column-gap: 24px;
 }
 .features-item {
+  width: calc((100% - 3 * 24px) / 4);
 }
 
 .features-caption {
@@ -13,6 +18,7 @@
   line-height: 1.2;
   color: #2e2f42;
   letter-spacing: 0.02em;
+  margin-bottom: 8px;
 }
 
 .features-text {
