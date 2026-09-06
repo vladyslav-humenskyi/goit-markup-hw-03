@@ -1,5 +1,4 @@
 .portfolio {
-  padding: 120px 0;
 }
 
 .portfolio-title {
@@ -10,6 +9,7 @@
   display: flex;
   flex-wrap: wrap;
   column-gap: 24px;
+  row-gap: 48px;
 }
 
 .portfolio-item {
@@ -24,7 +24,6 @@
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
   padding: 32px 16px;
-  margin-bottom: 48px;
 }
 
 .portfolio-caption {

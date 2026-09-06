@@ -55,8 +55,6 @@ address {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: inherit;
-  margin-right: 76px;
-  padding: 24px 0;
 }
 
 .btn {
@@ -85,7 +83,7 @@ address {
 .section-title {
   max-width: 496px;
   margin: 0 auto 72px;
-  margin-bottom: 50px;
+  margin-bottom: 48px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
